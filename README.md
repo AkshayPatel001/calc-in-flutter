@@ -1,18 +1,12 @@
 A calculator made in flutter.
 
-With this application, you can understand basic functionality in flutter like addition, subtractin, multiplication and division.
 
-With this app, you can get basic idea about statefull widget in flutter
+With this application, you can understand basic functionality in flutter like addition, subtractin, multiplication and division.
+With this app, you can get basic idea about statefull widget in flutter.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Dart code:  https://github.com/AkshayPatel001/calc-in-flutter/tree/master/lib
+ 
+ ## Auto generated android code: https://github.com/AkshayPatel001/calc-in-flutter/tree/master/android
+ 
+ ## Auto generated ios code: https://github.com/AkshayPatel001/calc-in-flutter/tree/master/ios
