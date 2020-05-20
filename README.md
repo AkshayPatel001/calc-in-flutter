@@ -5,8 +5,9 @@ With this application, you can understand basic functionality in flutter like ad
 With this app, you can get basic idea about statefull widget in flutter.
 
 ## Getting Started
- ## Dart code:  https://github.com/AkshayPatel001/calc-in-flutter/tree/master/lib
+
+## Dart code:  https://github.com/AkshayPatel001/calc-in-flutter/tree/master/lib
+
+## Auto generated android code: https://github.com/AkshayPatel001/calc-in-flutter/tree/master/android
  
- ## Auto generated android code: https://github.com/AkshayPatel001/calc-in-flutter/tree/master/android
- 
- ## Auto generated ios code: https://github.com/AkshayPatel001/calc-in-flutter/tree/master/ios
+## Auto generated ios code: https://github.com/AkshayPatel001/calc-in-flutter/tree/master/ios
